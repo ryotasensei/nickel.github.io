@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 Feb 2021 23:27:22 at https://app.nickel.eu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://app.nickel.eu/ -O1 "D:\Nickel" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 15 links scanned, 14 files written (2629754 bytes overall) [836035 bytes received at 52252 bytes/sec], 2591248 bytes transferred using HTTP compression in 8 files, ratio 30%, 5.0 requests per connection
+(No errors, 0 warnings, 0 messages)
